@@ -16,6 +16,7 @@ in commit indicator click on right tick
 // to make serpeate repo make sure that its parent folder does not contain any .git folder 
 // if repo is createby source config. automatically then{this repo is for parent folder }
 // to remove parent .gitfile it will remove from file explore part 
+PUBLIC TO GITHUB ALSO CREATE .GITFILE IN papernt folder automatically but only differcne is its asked befor folder is updatead
 <<<<<<< HEAD
 commit and syn is madatory
 TO ADD FILE /folder ON GITHUB USING VS code

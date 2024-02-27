@@ -13,6 +13,9 @@ past commamnd to push on master branch
 #### now after the adding and pushing ,modification in local seen in repo we have to make two thing 
 used vs code for thsi 
 in commit indicator click on right tick
+// to make serpeate repo make sure that its parent folder does not contain any .git folder 
+// if repo is createby source config. automatically then{this repo is for parent folder }
+// to remove parent .gitfile it will remove from file explore part 
 <<<<<<< HEAD
 commit and syn is madatory
 TO ADD FILE /folder ON GITHUB USING VS code

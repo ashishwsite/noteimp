@@ -26,6 +26,9 @@ vector<int> Vector = {67, 45, 745};
     //TO REMOVE FIRST ELEMENT
     // Vector.pop_front()  ; error because not avialable at this version // for this used dquea
     // to this we can take dquea data structure
+    // TO ACESS LAST ELEMENT IN VECTOR
+    int lastEle=v.back();
+    
 
     // size of vector
     int vsize = Vector.size(); 

@@ -39,19 +39,12 @@ vector<int> Vector = {67, 45, 745};
     // TO FIND MAXIMUN /MINUMUM ELEMENT IN Vector
     int maxelemnt=*max_element(first_iterator, second_iterator);
     // to find element in vector 
-    // auto it = find(first_iterator, second_iterator, target_valu);
+    auto it = find(first_iterator, second_iterator, target_valu);
     //TO GET LAST ELMENT IN VECTOTR 
     int lastEle=v.back();
     // cout<<lastEle;
     // it = iiterator of vector if not find then it = v.end();
     // which means index is not existin the vector
-    long long x;
-    long long m;
-    long long p=2000;
-    for(int i=1;i<=6;i++){
-      m=m+4*m/100;
-      m=m-2000;
-    }
-    cout<<m;
+    
 
 }
